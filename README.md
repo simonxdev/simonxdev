@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @simonxdev
 - 👀 I’m interested in coding anything in the Frontend World
-- 🌱 I’m currently learning React
-- 💞 I am working in a Web Agency near Hamburg
-- My Skills: HTML, CSS, LESS, SCSS, JavaScript, REACT, PHP, PHOTOSHOP, PSD/PDF -> HTML
+- My Skills: HTML, CSS, LESS, SCSS, Tailwind, JavaScript, REACT, Next.JS, PHP, Symfony, Typescript, Design UI/UX
 - 📫 Reach me by Mail: simonlohmann@gmx.net
 
 <!---
