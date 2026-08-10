@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simonxdev
-- I’m interested in coding anything in the Full Stack World
-- My Skills: HTML, CSS, LESS, SCSS, Tailwind,Node Frameworks, Elixir, Phoenix JavaScript, REACT, Next.JS, PHP, Symfony, Typescript, Design UI/UX
+- I’m a full Stack Developer working in Hamburg
+- My Skills: HTML, CSS, LESS, SCSS, Tailwind, Node Frameworks, Elixir, Phoenix, JavaScript, REACT, Next.JS, PHP, Symfony, Typescript, Design UI/UX
 - Reach me by Mail: simonlohmann@gmx.net
 
 <!---
